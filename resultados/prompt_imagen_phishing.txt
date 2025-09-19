@@ -1,0 +1,34 @@
+## Prompt Detallado para Generación de Imagen: Ataque de Phishing
+
+**Objetivo:** Crear una ilustración educativa y profesional que represente visualmente un ataque de phishing, mostrando claramente los elementos clave y el peligro involucrado.  La imagen debe ser apta para su uso en materiales de capacitación en ciberseguridad, sitios web y presentaciones.
+
+**Elementos Clave a Incluir:**
+
+* **Una computadora:** Debe ser una representación realista de una computadora de escritorio o portátil moderna, con una pantalla visible.
+* **Mensaje de phishing:** En la pantalla de la computadora debe mostrarse un correo electrónico o mensaje de phishing convincente, pero claramente identificado como fraudulento con pequeños detalles que lo delaten (ej: URL sospechosa, gramática incorrecta, remitente desconocido). El diseño del correo electrónico debe ser visualmente atractivo para ilustrar la táctica de engaño.
+* **Alerta de seguridad:**  Una alerta de seguridad superpuesta o adyacente a la computadora, con elementos visuales que indiquen peligro (ej: color rojo, triángulo de advertencia, icono de escudo con una X).  El texto de la alerta debe ser conciso y fácil de entender, ej: "Correo Electrónico Sospechoso", "Posible Ataque de Phishing",  "No Hacer Clic".
+* **Elementos opcionales (a elegir uno o dos para mejorar la narrativa):**
+    * **Iconos representativos de malware:** Pequeños iconos que sugieren la presencia de malware (ej: virus, troyano) podrían aparecer sutilmente cerca del correo electrónico o en la alerta de seguridad.
+    * **Representación del atacante:** Una silueta oscura o un icono anónimo en la esquina, representando al atacante detrás del ataque de phishing (opcional, para enfatizar la amenaza).
+    * **Candado roto o cadena rota:** Simbolizando la violación de la seguridad.
+
+**Estilo Visual:**
+
+* **Profesional y limpio:** Evitar elementos gráficos excesivos o demasiado llamativos.  La imagen debe transmitir seriedad y credibilidad.
+* **Realista pero estilizado:** Se prefiere un estilo realista para la computadora y el correo electrónico, pero se permite un cierto grado de estilización para resaltar los elementos clave.
+* **Paleta de colores:** Utilizar una paleta de colores que transmita seriedad y alerta, como tonos grises, azules oscuros y acentos rojos o naranjas para resaltar la alerta.
+
+**Detalles Técnicos:**
+
+* **Resolución:** Alta resolución (al menos 300 DPI) para permitir la impresión de alta calidad.
+* **Formato:**  JPEG o PNG.
+* **Aspecto:**  Horizontal o cuadrado, dependiendo de su uso previsto.
+
+**Ejemplos de Fraseado para la Alerta:**
+
+* "Alerta de Seguridad: Phishing detectado"
+* "Correo electrónico sospechoso: No haga clic en enlaces desconocidos"
+* "Posible amenaza de malware: revise cuidadosamente los correos electrónicos"
+
+
+Este prompt detallado debería ayudar a generar una imagen informativa y visualmente atractiva para la educación en ciberseguridad sobre los peligros del phishing.
